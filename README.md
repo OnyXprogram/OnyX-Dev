@@ -21,9 +21,6 @@ Estudante de **Ciência da Computação** 🎓. Transformando lógica em código
 * 🌐 Explorando o ecossistema do **JavaScript**.
 * 🎓 Focado em me tornar um Cientista da Computação de respeito.
 
-## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](LINK_DO_SEU_INSTA)
 
 ---
 
